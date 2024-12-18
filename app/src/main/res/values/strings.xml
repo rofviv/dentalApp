@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DentalApp</string>
+    <string name="login_titulo">Paciente Dental</string>
+    <string name="login_ci">CI</string>
+    <string name="login_clave">Contrasena</string>
+    <string name="login_ingresar">Ingresar</string>
+    <string name="main_welcome">Bienvenido</string>
+    <string name="main_mi_cita">Mis Citas</string>
+    <string name="main_reservar">Reservar Cita</string>
+    <string name="main_diagnostico">Diagnosticos</string>
+    <string name="main_consejos">Consejos</string>
+    <string name="main_salir">Salir</string>
+    <string name="consult_titulo">Reservar Cita</string>
+    <string name="consult_ayuda">Puedes reservar tu cita ya sea filtrando por doctor o por fecha y hora</string>
+    <string name="consult_doctor">Doctor</string>
+    <string name="consult_fecha_hora">Fecha y hora</string>
+    <string name="consult_doctor_buscar">Busca los horarios disponibles de tu doctor</string>
+    <string name="consult_fecha_buscar">Elige fecha y hora y reserva tu cita con un doctor disponible en tu horario</string>
+    <string name="consult_buscar">Buscar</string>
+    <string name="citas_titulo">Mis Citas</string>
+    <string name="diagnostico_titulo">Diagnosticos</string>
+    <string name="horarios_titulo">Horarios disponibles</string>
+    <string name="consejos_titulo">Consejos</string>
+</resources>
